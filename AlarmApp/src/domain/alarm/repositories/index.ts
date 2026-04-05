@@ -1,0 +1,1 @@
+export { AlarmRepository } from './AlarmRepository';
